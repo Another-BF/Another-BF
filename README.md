@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div alt="timeline">
+    <div alt="timenode">
+        <div alt="meta">2019.9 ~ 2022.6 <a href="#">家里蹲B</a></div>
+        <div alt="body">
+            人言落日是天涯，望极天涯不见家。
+            已恨碧山相阻隔，碧山还被暮云遮。
+        </div>
+    </div>
+    <div alt="timenode">
+        <div alt="meta">2015.9 ~ 2019.6 <a href="#">家里蹲A</a></div>
+        <div alt="body">
+            看花开花落，谈笑风生...
+        </div>
+    </div>
+</div>
